@@ -1,5 +1,9 @@
 # MusicForProgramming TUI
 
+<p align="center">
+  <img src="./Image.png" alt="MusicForProgramming TUI Preview" width="720" />
+</p>
+
 `musicforprogramming.net` のエピソードをターミナルで一覧・再生する TUI アプリです。
 
 ## Requirements
